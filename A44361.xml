@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both Houses of Parliament being a brief and general account of the late and present sufferings of many of the peaceable subjects called Quakers, upon the late act against Conventicles, for no other cause but meeting together to worship God according to their perswasions and consciences.</title>
+            <author>Hookes, Ellis, d. 1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44361</idno>
+            <idno type="STC">Wing H2661</idno>
+            <idno type="STC">ESTC R749</idno>
+            <idno type="EEBO-CITATION">13065057</idno>
+            <idno type="OCLC">ocm 13065057</idno>
+            <idno type="VID">97058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 742:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both Houses of Parliament being a brief and general account of the late and present sufferings of many of the peaceable subjects called Quakers, upon the late act against Conventicles, for no other cause but meeting together to worship God according to their perswasions and consciences.</title>
+                  <author>Hookes, Ellis, d. 1681.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Ellis Hookes. Cf. NUC pre-1956.</note>
+                  <note>"Carefully examined and compared with the original accounts ... by Ellis Hookes.": p. 19.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97058:1"/>
+            <pb facs="tcp:97058:1"/>
+            <p>FOR THE KING And both HOUSES of PARLIAMENT BEING A brief and general Account of the late and preſent ſufferings of many of the Peaceable Sub<g ref="char:EOLhyphen"/>jects called <hi>Quakers,</hi> upon the late Act againſt Con<g ref="char:EOLhyphen"/>venticles; for no other Cauſe but Meeting together to Worſhip God according to their perſwaſions and Conſciences.</p>
+            <q>
+               <hi>For the Oppreſſion of the Poor, and the Sighing of the Needy, I will ariſe ſaith the Lord,</hi> &amp;c.</q>
+            <p>Printed in the Year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:97058:2"/>
+            <pb n="3" facs="tcp:97058:2" rendition="simple:additions"/>
+            <head>FOR THE KING And both HOUSES of PARLIAMENT.</head>
+            <p>WHereas many of the ſaid People, have of late been, and ſtill are greatly diſquieted, and ſeverely uſed, many poor Families Ruined as to their Livelihoods; the Fatherleſs and Wid<g ref="char:EOLhyphen"/>dows greatly Oppreſſed; many honeſt Trades-men diſcouraged, Trading in many places much ſtopt and decayed; the Poor wanting Bread, by reaſon of the great ſpoyl and havock that's made upon many In<g ref="char:EOLhyphen"/>nocent Induſtrious Families, only for the exerciſe of their tender Conſciences, as by the following Rela<g ref="char:EOLhyphen"/>tion will appear: Which ſufferings have been occa<g ref="char:EOLhyphen"/>ſioned by ſome idle and diſſolute perſons, who being not willing to take pains for an honeſt Livelihood in the Creation, as other men do, are turned Informers, going from place to place on purpoſe to find out ſuch
+<pb n="4" facs="tcp:97058:3"/>Meetings; troubling the Magiſtrates, and inſtiga<g ref="char:EOLhyphen"/>ting ſuch as are willing to gratifie them, that they may make a prey upon the ſaid Peoples Eſtates and Livelihoods; ruining and deſtroying theſe Peaceable Proteſtant-Subjects, under pretence of doing the <hi>King</hi> Service.</p>
+            <p>We therefore entreat your Patience to peruſe the fol<g ref="char:EOLhyphen"/>lowing account, and take it into your ſerious Conſiderations, to afford the Sufferers ſome ef<g ref="char:EOLhyphen"/>fectual and ſpeedy relief, by ſtopping ſuch In<g ref="char:EOLhyphen"/>humane proceedings for the future, that they and their Families may not be utterly deſtroyed.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:97058:3"/>
+               <head>Huntington-ſhire, <hi>1670.</hi>
+               </head>
+               <p>FOr meeting together to worſhip God, Eighty perſons have been fined at ſeveral times 254 <hi>l.</hi> 5 <hi>s.</hi> for which there hath been taken from them, Sheep, Cowes, Horſes, Hoggs, Wool, Oatmeal, Carts, Pewter, Panns, and Potts, and other Goods to the value of 276 <hi>l.</hi> 5 <hi>s.</hi> Note, <hi>Tho. Liſter</hi> was fined 2 <hi>l.</hi> For which they took a Horſe from him worth 6 <hi>l.</hi> and a Cow worth 2 <hi>l.</hi> they ſold the Horſe to <hi>Hen. Williams</hi> called a Juſtice for 25 <hi>s.</hi> and the Cow to another Juſtices man for 16 <hi>s.</hi> 6 <hi>d. Chriſto<g ref="char:EOLhyphen"/>pher Maidſton,</hi> for being at two Meetings, fined 20 <hi>s.</hi> for himſelf and his Wife, upon the Oath of <hi>John Blake,</hi> and <hi>Will Scot</hi> Infor<g ref="char:EOLhyphen"/>mers, who ſwore falſly, for the Woman was not at the Meeting. <hi>Jaſper Liſter,</hi> having all his Goods taken away, he went to <hi>John Hieron,</hi> called a Juſtice, for a Bed, which he refuſing, he deſired he might have a Blanket to cover him; but it would not be granted, though he had Three Children, and himſelf ſo lame, that he goes on Crutches, and when no body would buy the Goods in the Mar<g ref="char:EOLhyphen"/>ket, the Juſtices would meet at an Inn, and ſell them by the inch of Candle; ſelling them to Informers, Juſtices &amp; themſelves, buying ſome, &amp; their Clarks; and their Kindred many times for a great deal leſs than half the worth of them. Juſtice <hi>Hieron,</hi> coming to a meeting at <hi>Godmancheſter,</hi> asked them what they did there? one anſwered, meet to worſhip God; he ſaid, you have ſaid enough to condemn your ſelf, and all that be here, and fined them. <hi>John Arthur</hi> fined 5 <hi>l.</hi> 10 <hi>s.</hi> had all his Goods taken away, not leaving him ſo much as a Diſh, or Spoon, nor the Dung in his Yard, though he had ſold it before for 6 <hi>s.</hi>
+               </p>
+               <p>And when the Officers returned, that there was no Goods left, but Forms and Stools, <hi>Rob. Apreice</hi> called Juſtice, bid them take the friends Coat off his back, if he had two, and the other things they might carry out and ſet ſire on them.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:97058:4"/>
+               <head>Lincoln-ſhire.</head>
+               <p>TAken for ſeveral meetings, Goods and Cattle (in the Years 1670. (72) and (74) To the vallue of 391 <hi>l.</hi> 18 <hi>s</hi> 4 <hi>d.</hi> for 94 <hi>l.</hi> 10 <hi>s.</hi> fines. <hi>Will. Lewis</hi> a Prieſt, and <hi>John Ward</hi> a Pariſh Clark Informers. One <hi>John Obrey,</hi> Prieſt of <hi>Anderby,</hi> ſetting the Informers on, threatning that he will ſtarve the <hi>Quakers</hi> by this Act. <hi>Richard Frisby,</hi> and <hi>Edward Greaves</hi> two other Infor<g ref="char:EOLhyphen"/>mers ſwore, that one <hi>John Peachell</hi> ſpoke in the meeting, when not one word was ſpoken by him; nevertheleſs, one called Juſtice <hi>Therrald</hi> fined him 20 <hi>l.</hi> The aforeſaid Diſtreſſes were taken, al<g ref="char:EOLhyphen"/>though no Teſtimony ever came in againſt them, but that they were met together in peace and quietneſs, and no outward exerciſe of Religion, nor pretence of any proved againſt them; and ſome of them never called to anſwer, nor no witneſs ſworn in their ſight againſt them, but the witneſſes examined in private, and that coun<g ref="char:EOLhyphen"/>ted a Conviction.</p>
+            </div>
+            <div type="part">
+               <head>Cambridg-ſhire.</head>
+               <p>TAken from ſeveral perſons in this County, in the Year 1670, 1673, 1674. Goods, <hi>viz.</hi> Pewter-diſhes, Wood, Braſs, Li<g ref="char:EOLhyphen"/>nen cloath, Shop-goods, and Working-tools, to the very Shooma<g ref="char:EOLhyphen"/>kers laſts, and Womens Coats, Head-cloths, Gloves and Patens, and Cowes, and Horſes, in all to the vallue of 608 <hi>l.</hi> 16 <hi>s.</hi> 3 <hi>d.</hi> They took from <hi>George Thorrowgood</hi> of <hi>Ely,</hi> his Bed and Gover<g ref="char:EOLhyphen"/>leds, and left the poor man to lodge on ſtraw, and afterwards for ſtanding in the ſtreet before his own door, was fined 10 <hi>s.</hi> by <hi>Parte<g ref="char:EOLhyphen"/>ridge</hi> and <hi>Lamy</hi> called Juſtices, for which his Sheets, Pillowbeers, and very Shirt was taken from him, though he was very ſick in body at that time. <hi>Edward Cook</hi> Miller, for 5 <hi>l.</hi> 5 <hi>s.</hi> fine, had taken his two Loading Horſes, his Houſhold-ſtuff, to the Bedds and Bed<g ref="char:EOLhyphen"/>ſteads the children lay on, and childs Cradle, to the vallue of 12 <hi>l.</hi> 15 <hi>s.</hi> ſo that the children were fain to lye on Straw upon the Boards, by which means they fell ſick, and one dyed ſince.</p>
+               <p>
+                  <list>
+                     <item>
+                        <hi>Stephen Perry</hi> Tinker.</item>
+                     <item>
+                        <hi>Simeon Prieſt</hi> Barber.</item>
+                  </list> The two grand Informers in this County.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:97058:4"/>
+               <head>Cornwall.</head>
+               <p>TAken from 69. Perſons for 311 <hi>l.</hi> 5 <hi>s.</hi> fines laid upon them in the yeares 1670.1673, 1674. In Goods and Cattle, to the value of 497 <hi>l.</hi> 13. <hi>s.</hi> 8. <hi>d. Henry Williams</hi> a poor man, ſtript ſo near that they left him neither Breeches to ware, nor Bed to lye on, and took his very Hatchet, he ſhould work withall; from ano<g ref="char:EOLhyphen"/>ther poor man, for 15 <hi>s.</hi> fine, they took his wives wearing ap<g ref="char:EOLhyphen"/>parel.</p>
+               <p>And there are lately ſeveral perſons fined, to the value of 147 <hi>l.</hi> for which diſtreſſes are not yet taken.</p>
+               <p>Alſo many are proceeded againſt upon an old ſtatute againſt Po<g ref="char:EOLhyphen"/>piſh Recuſants, and returned into the Exchequer for a Seizure, of two thirds of their Eſtates, and a writ of enquiry ſent down to Commiſſioners, to enquire into their Eſtates.</p>
+            </div>
+            <div type="part">
+               <head>Darby-ſhire.</head>
+               <p>SIxty Perſons fined alſo for Meeting 293 <hi>l</hi> 2 <hi>s.</hi> 8 <hi>d.</hi> or there a<g ref="char:EOLhyphen"/>bouts, had taken to the value of 366 <hi>l.</hi> 4 <hi>s.</hi> 10 <hi>d.</hi> in Cowes, Swine, Shoes, Leather, Corn, Hay, Houſe-hold Stuff, to the Diſh and Spoon, and working Gear; and from the Smith his Bellows and Tools, ſweeping all away, both within doores and without <hi>William Cooper</hi> had taken his Cow, Corn, Hay, houſhold-goods, to his wearing Coat, and the meat he had provided for his Wife, and three ſmall Children.</p>
+            </div>
+            <div type="part">
+               <head>Norfolk.</head>
+               <p>TAken from ſeveral perſons in the yeares 1670 and 1674, the value of 1244 <hi>l.</hi> 7 <hi>s.</hi> 5 <hi>d.</hi> In Cattle, Sheep, Houſhold Stuff, and the Dung-Fork, Pitch-Fork, and Daubing-fork; the Mans Doublet, and Breeches, the Wives Coates, and their Beds from under them, that they were fain to lye on Straw; takeing all at one Houſe, both within doores and without: the Juſtice bidding the Officers take all they had, and then they ſhould have down
+<pb n="8" facs="tcp:97058:5"/>with them: And when they told the Juſtice, there was little left to diſtrain for <hi>Fra. Landers</hi> Wives fine, but the bed ſhe lay on, being ſick and like to die, (and ſhe did die that night:) he ſaid he cared not, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> take the bed from under her, and ſometime after ſhe was buried: ſome cauſed her body to be taken up again, in an In<g ref="char:EOLhyphen"/>humane manner, breaking the Coffin, that they were fain to tye it together, and carried it upon a pole, and ſet it in the Market Place, to the amazement of many People.</p>
+               <p>And about 12 perſons being in a Room viſiting their ſick friend, (upon his deſire) and one of them ſpeaking 5 or 6 words to him, the Informers ſwore againſt them, and the ſick man was fined 20 <hi>l.</hi> for having the ſaid Meeting in his houſe, and had 6 Cowes taken from him, and the others fined 20 <hi>l.</hi> for the Preacher, which was alſo leavied.</p>
+               <p>
+                  <hi>John Patterſon</hi> of <hi>Cockley Clay,</hi> had his Barn of Corn ſeized on, and 200 Sheep taken, worth 80 <hi>l.</hi> and ſold for 65 <hi>l.</hi> or thereabouts; Alſo many are lately preſented in this County, as Popiſh recuſants.</p>
+            </div>
+            <div type="part">
+               <head>Nottinghamſhire. <hi>1670, 1674.</hi>
+               </head>
+               <p>TAken to the value of 695 <hi>l.</hi> 3 <hi>s.</hi> 6 <hi>d.</hi> in Cattle and Houſhold-Stuff, from ſome all their goods, excepting a Barrel of Beere, a Cradle, and ſome Bread and Cheeſe, which the Officers for pitty hid, and told the women of it; the Juſtice bid the Officers take three or four times as much as the fines that they might allow good penny worths. They took from a poor fatherleſs Boy, his Coat and Breeches; not leaving the Woman at one houſe a Stool to ſit on to dreſs her Child: Two perſons appealing to the Seſſions, they ordred them their mony again; but <hi>Penniſtoni Whaley,</hi> called a Juſtice, fraudulently detains 60 <hi>l,</hi> in his hands contrary to the orders of the Seſſions.</p>
+               <p>Note, <hi>Colgrave</hi> the grand Informer, ſwearing falſly ſeveral times, as that perſons were at a Meeting, when they were not, and that there was preaching, when there was not one word ſpoken; and that divers were not worth 10 <hi>s.</hi> though it was proved in open Court, they had Horſes, Beaſts and Sheep of their own at that time.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:97058:5"/>
+               <head>Kent.</head>
+               <p>TAken goods worth 40 <hi>l.</hi> 18 <hi>s.</hi> 9 <hi>d. viz.</hi> Mault, Shoes, Bed, Bed<g ref="char:EOLunhyphen"/>ding, Earthen-ware, and houſhold-ſtuff; beſides a great deal of goods, the vallue not ſent up, ſelling goods at under rate, <hi>viz.</hi> Thirty pounds worth, for 5 <hi>l.</hi> 15 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Cheſhire, <hi>1674.</hi>
+               </head>
+               <p>SEveral perſons have had their goods and Cattle taken to a great vallue, <hi>viz.</hi> Cowes, Bacon, Cheeſe, Corn, Bedds, Coverlids, Panns, Pewter, and other Houſhold goods; the Informers threat<g ref="char:EOLhyphen"/>ning they would not leave taking from them while they were worth a Groat, ſaying, they would turn Drovers, and drive them every week. The Informers being highly encouraged by a Juſtice of <hi>Cheſter;</hi> they uſed violence to many, in breaking up the meet<g ref="char:EOLhyphen"/>ing, pulling the hair off their heads, ſtriking them, and drawing their Swords, ſwore they would take off a hand or arm from ſome of them, and threatned to run through and kill ſome of them, and to ſtand to it when they had done. The aforeſaid Juſtice bid the Officers be ſure to take enough, and then they might have ſome for themſelves: ſetting the Souldiers to buy the Cattle, when none elſe would buy them.</p>
+               <p>Amongſt theſe ſufferers, 10 or 12 are poor Widdowes, ſome of them having a great charge of Fatherleſs children, they have not left ſome of them a Skillet to boyl their childrens meat in, and moſt of them have no Eſtates, but are Rackers, which they pay Yearly for; and diverſe lately fined and lyable to be diſtreyned.</p>
+            </div>
+            <div type="part">
+               <head>Oxfordſhire, <hi>1670. 1674.</hi>
+               </head>
+               <p>TAken the vallue of 176 <hi>l.</hi> 2 <hi>s.</hi> 7 <hi>d.</hi> In Cowes, Corn, Piggs, Bacon, Mault, Bedds, Bolſters, Sheets, and other houſhold goods, to the very Pot-hookes, and the poor mans Breeches and Doublet; not leaving one man a Bed to lye on, nor any thing to
+<pb n="10" facs="tcp:97058:6"/>boyle food in for his Wife and five ſmall children, and took 15 <hi>s.</hi> out of a poor Womans Purſe. A Prieſt being Informer haled the women out of the meeting, and tore their cloaths, and another Prieſts wife ſwore ſhe would be an Informer.</p>
+               <p>Beſides, the rude, uncivil, obſcene and ſhameful behaviour and carriages of the Schollars at our meeting in <hi>Oxford.</hi>
+               </p>
+               <p>Many more Warrants out to diſtrein, which are not yet execu<g ref="char:EOLhyphen"/>ted.</p>
+               <p>One man fined 5 <hi>s.</hi> for which the Officers took a childs coat, which the child ſeeing, cryed out with a loud voice.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Eſſex,</hi> 1670, 1674, 1675.</head>
+               <p>TAken the vallue of 467 <hi>l.</hi> 19 <hi>s.</hi> 7 <hi>d.</hi> In Linnen Cloath, womens cloaths, Horſes, Carts, Braſs, Pewter, Bedding, Wool, Sheep, Leather, Bread-Corn and Bread, Shop-goods and houſhold goods, the Juſtice uſing rugged ſpeeches, ſtriking ſome, and thruſting others in the Dirt, that were brought before him, for being at a meeting, and cauſed two to be ſet in the Stocks.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Cumberland,</hi> 1670, 1672, 1673.</head>
+               <p>TAken in Cattle, <hi>viz.</hi> Cowes, Heifers, Sheep, Horſes, Swine, Corn, <hi>&amp;c.</hi> Butter, Cheeſe, wearing cloaths, working tools, and Houſhold goods, to the vallue of 226 <hi>l.</hi> 13 <hi>s.</hi> 1 <hi>d.</hi> moſt of the ſufferers being poor labouring people: ſome whereof had all to their very bedding taken from them: as for inſtance, <hi>Matthew Kirk<g ref="char:EOLhyphen"/>bride</hi> a poor man had his Bed-cloaths taken from off his poor chil<g ref="char:EOLhyphen"/>dren, and they left naked. <hi>James Barne</hi> an old poor dimſighted lame man (maim'd in the Kings ſervice) his very bedding, and Eight buſhels of Mault taken from him.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:97058:6"/>
+               <head>Westmerland, <hi>1675.</hi>
+               </head>
+               <p>FOurſcore perſons preſented, indicted and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onvicted upon th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Statute of the 23th of <hi>Elizabeth</hi> to be returned into the Ex<g ref="char:EOLunhyphen"/>chequer ſince the Kings late Declaration againſt <hi>Popiſh-Recuſants</hi> though well known to be no Papiſts.</p>
+            </div>
+            <div type="part">
+               <head>Gloucester-ſhire, <hi>1675.</hi>
+               </head>
+               <p>MUch goods diſtreined, and ſold, to a conſiderable vallue; and from labouring men their working-tools taken from them, that ſome were conſtrained to give over their Trades. They took from a Smith, his Bellowes, Anvil and Vices, ſcarce leaving any a Bed to lye on; and ſome were ſo cruelly beaten, that their fleſh was of many colours. Much Cattle alſo being diſtreined and brought to Market in Droves, to the grief and trouble of many people to ſee ſuch oppreſſion and ſpoil upon their peaceable Neighbours.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Surrey,</hi> from 1670. to 1675.</head>
+               <p>FIfty Three perſons had diſtreined from them, for meetings, Goods and Cattle of the vallue of 351 <hi>l.</hi> 3 <hi>s.</hi> 4 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Durham.</head>
+               <p>SEventeen perſons for meetings, had diſtreined from them Pew<g ref="char:EOLhyphen"/>ter, Horſe, Corn, and other goods, to the vallue of 28 <hi>l.</hi> 13 <hi>s.</hi> 6 <hi>d.</hi> beſides had great abuſes done to their perſons. Taken goods to the vallue of 18 <hi>l.</hi> for a fine of 2 <hi>l.</hi> 10 <hi>s.</hi> and 3 remain Priſoners at this time in this County, for Conſcience ſake.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:97058:7"/>
+               <head>Warwick-ſhire.</head>
+               <p>THirteen perſons for meeting, had Cattle, Corn, and other goods taken from them, to the vallue of 69 <hi>l.</hi> 6 <hi>s.</hi> 10 <hi>d. John Clark</hi> of <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atington,</hi> A Prieſt, being Informer in this County, the Officers with him went into a back-ſide to diſtrein, and running after the Piggs, they ſaw a blind Horſe, the Prieſt ſaid they muſt take him, the Officers ſaid he was worth little, he ſaid they muſt take him, though they knock him on the head for his skin to ſell.</p>
+            </div>
+            <div type="part">
+               <head>Suſſex.</head>
+               <p>TWenty four perſons for meeting, had Cattle, Horſes, Corn, and other-goods diſtreined from them, to the vallue of 66 <hi>l.</hi> 1 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Suffolke,</hi> from 1670, to 1675.</head>
+               <p>ONe hundred and thirty perſons for meetings, had their Cattle Horſes, Corn, Bedding, and other goods diſtreined, to the vallue of 1294 <hi>l.</hi> 1 <hi>s.</hi> 7 <hi>d.</hi> amongſt others, ſome poor people, ha<g ref="char:EOLhyphen"/>ving ſome Nine, others 3 children, had taken from them the very Pott that ſhould boyl their meat in, and other ſmall neceſſaries for their ſubſiſtance; and one poor Infant bereaved of its Blanckets wherewith it was ſwadled, with the Pillow and Bolſter whereon it lay in the Cradle; others their bed taken from under them, and they left to lye on Straw.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Somerſet-ſhire,</hi> from the year, 1670, to 1674.</head>
+               <p>TAken, <hi>viz.</hi> Horſes, Cowes, Sheep, Wool, Cloth, Bedds, bed<g ref="char:EOLhyphen"/>ding, Pewter, Braſs, Shoes, Stockings, Wheat, Meal, Bacon, and ſuch like, to the vallue of 906 <hi>l.</hi> 3 <hi>s.</hi> 9 <hi>d.</hi> beſides ſeveral other perſons in this County have had their goods ſeized on, that as yet
+<pb n="13" facs="tcp:97058:7"/>we know not the value of; amongſt whom, is one, that had all his Braſs and Pewter taken away, and not ſo much as a Pot leſt to dreſs Victuals in: There hath alſo been much havock made on the Goods of Widdows, Poor, Aged, and Indigent people and Father<g ref="char:EOLhyphen"/>leſs Children.</p>
+            </div>
+            <div type="part">
+               <head>Sallop</head>
+               <p>TAken in Cloath, Stuffs, Pewter, Copper, Braſs, and other Houſhold-goods, to the value of 51 <hi>l.</hi> 4 <hi>s.</hi> A poor old Wid<g ref="char:EOLhyphen"/>dow woman, ſhe then having in her Cuſtody a Motherleſs Child, which was her Sons, the Man being then very Sick, and in danger of death; and the Prieſt, the Informer, having cauſed her Goods to be taken from her, ſhe brought him the Child, and told him he muſt take care for it; but the ſame Evening he returned the Child to her, which ſhe received: When her Son was recovered, he took the Child into another County, yet this Informer, the Prieſt, de<g ref="char:EOLhyphen"/>tayneth this Old-Woman in Priſon, and ſaith he will keep her there, unleſs ſhe will find Sureties that the Child ſhall not be troubleſome to the Pariſh, although it was Born there, and its Father, and Grand<g ref="char:EOLhyphen"/>father continued there many years.</p>
+            </div>
+            <div type="part">
+               <head>Pembroke-ſhire.</head>
+               <p>NIneteen Perſons for Meetings had taken from them, Cows, Oxen, Sheep, Horſes, Piggs, Corn, Hay, Beaſt, Pewter, Sheets, Blankets, Coverlids, Plow, with furniture and other Goods, to the value of 172 <hi>l.</hi> 5 <hi>s.</hi> 4 <hi>d.</hi> An Informer knockt one Perſon off his Horſe with his ſtick, and drew his Sword and beat him, and ſo commanded the Conſtable to Diſtrain his Goods; taking from one poor Man his Coverlid, Sheets, and Blanket; A<g ref="char:EOLhyphen"/>nother poor man had only one Pigg; which they took.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:97058:8"/>
+               <head>Dorſet-ſhire.</head>
+               <p>TAken from Twenty Eight Perſons (whereof ſome poor, &amp; maim<g ref="char:EOLhyphen"/>ed in the Kings ſervice) in mony, Cows, Heifers, Calves Pew<g ref="char:EOLhyphen"/>ter, Braſs, and other Houſhold Goods, and the Womans Peticoate, and mens Shoes, to the value of 1000 <hi>l.</hi> 11 <hi>s.</hi> 11 <hi>d.</hi> One <hi>Robert Cul<g ref="char:EOLhyphen"/>liford,</hi> called a Juſtice, at a Meeting, kickt <hi>Deborah Coleman</hi> on the Belly, and ſeveral other places, and alſo ſtruck her violently with his dog Whip, and pincht one man by the Ear, calling him Rogue and thief; and pincht ſeveral others till they were Black and Blew.</p>
+               <p>A Sadle was taken worth 9 <hi>s.</hi> for 1 <hi>d.</hi> leavyed ſhort before.</p>
+               <p>A fine charged for a Speaker, he being known not to be at the Meeting that time, but elſwhere: another ſworn againſt, yet not at the Meeting: A poor man to whom yarn was delivered to work on, had his door broke up, and it taken from him, for anothers ſup<g ref="char:EOLhyphen"/>poſed offence. <hi>Tho. Dyker</hi> the Informer, going to Seize <hi>Henry Hodges</hi> Cowes, <hi>Henry's</hi> Wife, and Son, and Daughter, ſtood be<g ref="char:EOLhyphen"/>fore the Cattle in the ground, being not willing to part with them; but the Informer in a rage drew his Sword, and threatned to run the Woman big with Child, through; and <hi>Henry Hodges</hi> ſtanding by with a Child in his Arms, though he ſpake not a word, he cut him on the Arm with his ſword to the Bone, and ſtruck him many other Blowes; ſo that he broke his Sword in two peices.</p>
+               <p>In the ſame County Ten Perſons Indicted as Popiſh Recuſants, though known to be of the People called <hi>Quakers;</hi> and a writ of enquiry ſent down to Commiſſioners, to enquire into their real and perſonal Eſtates: And others whoſe names we yet know not, are like to ſuffer upon the ſame Accompt.</p>
+            </div>
+            <div type="part">
+               <head>Lancaſhire.</head>
+               <p>FOrty one Perſons for Meeting, had goods taken away, to the value of 71 <hi>l.</hi> beſides ſeveral fined not yet diſtreyned: Eight perſons remaining in priſon in this County, for non-payment of Tythes; ſome of the aforementioned ſufferers for Meetings,
+<pb n="15" facs="tcp:97058:8"/>being poor, had all their Cattle, and Shop-Goods taken away.</p>
+            </div>
+            <div type="part">
+               <head>Leiceſter ſhire.</head>
+               <p>SIxty Perſons have had goods taken away; and fines impoſed to the value of 333 <hi>l.</hi> 18 <hi>s.</hi> 8 <hi>d.</hi> One had all his goods in his Houſe and Shop taken away; two other poor Men having each but one Cow, to give their young Children Milk, were both taken away, with their Beds and Blankets; all being not enough, <hi>George Villers</hi> called a Juſtice, required an Oath of the Officers, that they had not left one of them worth any thing. Nineteen perſons fined, and have had goods taken away (for refuſing to Swear) to the Va<g ref="char:EOLhyphen"/>lue of 80 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stafford-ſhire,</hi> from 1670, to 1674.</head>
+               <p>GOods and Cattle taken for Meetings, to the vallue of 75 <hi>l.</hi> 4 <hi>s.</hi> 10 <hi>d. Alice Bowman,</hi> for ſpeaking a few ſober words to a Prieſt and the people in their Meeting Houſe was committed to the Houſe of Correction, with her ſucking child: under which hard uſage the Child died.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Hereford-ſhire.</hi> 1670, 1674.</head>
+               <p>THirty two Perſons for Meeting, had Goods and Cattle, taken from them; to the value of 330 <hi>l.</hi> 12 <hi>s.</hi> 4 <hi>d. Charles Bernard</hi> of <hi>Lemſter,</hi> fined at two times 60 <hi>l.</hi> for which all his Goods, Chat<g ref="char:EOLhyphen"/>tels, and moveables were ſeized, and ſold by the Officers and In<g ref="char:EOLhyphen"/>formers, by a warrant from one <hi>Tomkins</hi> and <hi>John Barnaby,</hi> Knights.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Berk-ſhire.</hi> 1670.</head>
+               <p>GOods and Hay, taken from ſeveral perſons in this County for Meeting; to the value of 40 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:97058:9"/>
+               <head>Hamp-ſhire. <hi>1670.</hi>
+               </head>
+               <p>TWo Perſons fined for Meetings, had taken from them, Goods to the value of 36 <hi>l.</hi> 10 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Wilt-ſhire.</head>
+               <p>FIve perſons for Meeting, had taken from them, Oxen, Cowes, Sheep, Mault, Wool and Houſhold Goods, to the value of 81 <hi>l.</hi> 9 <hi>s.</hi> 6 <hi>d.</hi> The ſeizers of theſe goods, came in at a Window at one houſe, and broke open a door at another; one of the five ſuffe<g ref="char:EOLhyphen"/>rers is a poor Woman having Children.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Northumberland,</hi> 1675.</head>
+               <p>SEven Perſons committed to Priſon for Meeting; one of them having been ſick of the Flux this half year, was taken out of his Chamber very rudely, and without Mercy haled out of the Town, being ſcarce able to go on his leggs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Devon-ſhire,</hi> from 1670; to 1674.</head>
+               <p>SIxty one Perſons for Meeting, had Pewter, Braſs potts, Sheep, Warming Pan, Braſs Kettle, Linnen-Cloath, Jack, Diſhes, Candleſtick, Fire-Pan, Weaving-Tooles, Wool-combing-Tooles, Houſhold-Stuff and neceſſarys for rigging a Ship, for 154 <hi>l.</hi> 13 <hi>s.</hi> fines: Taken to the value of 222 <hi>l.</hi> 10 <hi>s.</hi> 6 <hi>d.</hi> Two Labourers, for refuſeing to carry away goods diſtrained, were comitted to Pri<g ref="char:EOLhyphen"/>ſon: Four Conſtables ſent to Jayle, for not diſtreining Peoples Goods.</p>
+            </div>
+            <pb facs="tcp:97058:9"/>
+            <div type="part">
+               <head>
+                  <hi>Hartfordſhire,</hi> from 1670. to 1675.</head>
+               <p>TAken for Meeting, in Heifers, Horſes, Sheep, Houſhold Goods and Mault, to the value of 582 <hi>l.</hi> 10 <hi>s.</hi> Two Priſoners in this County, upon a writ of <hi>Excomunicato Capiendo,</hi> and another for <hi>non</hi> payment of Tythes.</p>
+            </div>
+            <div type="part">
+               <head>York ſhire.</head>
+               <p>TAken for Meeting, in Horſes, Cows, Sheep, Shop ware, and Houſhold-goods, to the value of 2381 <hi>l.</hi> 00 <hi>s.</hi> 3 <hi>d.</hi> Taken from one Perſon in this County Twenty-eight Head of Cattle, Nine Horſes, and 130 Sheep, in all worth 130 <hi>l.</hi> And when the Conſtable affirmed at the Seſſions, that he could not get the Goods ſold; one of the Juſtices told him, you muſt ſell them, though you ſell Ten pounds worth for 10 <hi>s.</hi>
+               </p>
+               <p>And though the Loſſes have been ſo very great in this County, yet they are not to be compared to the Loſs of their Trades, many of them being Trades men, and Labouring Poor men, who have had their Looms, Leads, and Tenters taken away, which was the Up<g ref="char:EOLhyphen"/>holders of their Families. And ſome poor Women had their Goods taken, who were hardly able to get Food and Neceſſaries. <hi>Mary Toàd,</hi> a poor Widdow, for having a Meeting at her Houſe, one <hi>Francis Driffeild,</hi> called a Juſtice, ſent a Warrant to bring her be<g ref="char:EOLhyphen"/>fore him; but ſhe was ſo Aged, ſhe was not able to go on Foot nor Ride ſo far: Then he gave Order to Diſtrain 20 <hi>l.</hi> 5 <hi>s.</hi> on her Goods: The Informers told him her Goods was not, worth ſo much, well ſaid he, take all ſhe hath, which they performed as neer as they could, not leaving her a Bed to lye on, taking her very Cloaths, though ſhe was but a poor Widdow, Aged and in Debt.</p>
+               <p>
+                  <hi>William Thornaby</hi> the younger, and <hi>John Alliſon,</hi> both of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> grand Informers, ſearching for a Meeting at a Widdows Houſe, where they found three perſons viſiting the Widdows Daugh<g ref="char:EOLhyphen"/>ter, who lay very weak, not likely to live; and whilſt they were
+<pb facs="tcp:97058:10"/>Searching, there came in two other perſons accidentally, one of which was a Kinſwoman,  and no Quaker, as was after<g ref="char:EOLhyphen"/>wards proved; nevertheleſs <hi>Thornaby</hi> ſet down their Names, and went to <hi>James Metcalf,</hi> called a Juſtice, who Fined the Perſons, and granted a Warrant to Diſtrain; but th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sufferers appealing, the moſt moderate Juſtices, judged this hard meaſure and illegal, and ordered the money to be returned. This is only noted to ſhew the wickedneſs of theſe Informers, and ſome Juſtices.</p>
+               <p>Note, That among the Sufferers, the Burthen hath fallen ex<g ref="char:EOLhyphen"/>ceeding heavy upon ſome Particulars, as Farmers, Trades men, Shop-keepers, Handicraft men, being Fined and Unreaſonably Di<g ref="char:EOLhyphen"/>ſtrained, becauſe of the Poverty of many others, whereof particular Inſtances may be given, if occaſion require: This fore-going account being but an abſtract of the many and great ſufferings which we have received an account of already, and for expedition ſake thus abreviated, there being alſo much more ſuffering, as we underſtand, in divers Countys, which we have not yet a full Account of, as in <hi>Norfolk, Cheſhire, Cambridge, Suffolk,</hi> and ſome other places; the ſpoyl being greateſt where the Magiſtrates are ready to anſwer the Mercinary Informers; the Cry of whoſe deſtructive proceedings is very loud in this Nation, and the Land mourns be<g ref="char:EOLhyphen"/>cauſe of this Oppreſſion: Therefore, we requeſt your ſpeedy re<g ref="char:EOLhyphen"/>dreſs of this Grievance, that the Poor, the Oppreſſed and Induſtrious Families may be Relieved, Eaſed, and Encouraged; and do like<g ref="char:EOLhyphen"/>wiſe pray, that God would graciouſly be pleaſed to enlighten and o<g ref="char:EOLhyphen"/>pen your underſtandings, and make your hearts tender and ſenſible that he may turn away his Wrath, and divert thoſe heavy Judg-Judgments and Calamities which this Nation is liable to.</p>
+               <p>We were always willing to give <hi>Caeſar</hi> his due and we deſire we may have liberty to give God his due in all reſpects, and to Serve, Obey, and Worſhip him in Spirit and Truth, and to meet together in the peaceable exerciſe thereof, as we are commanded. If we be Ruined in our Perſons and Eſtates, or Maſters of Families deſtroy<g ref="char:EOLhyphen"/>ed in Priſons, how can we pay the Kings Taxes, or Landlords their Rents, or Contribute to the Service of King or Country? You may underſtand what lamentable havock is made of us, and only for good Conſcience in obeying God and Chriſt; for nothing contrary has been, ſound againſt us, for which we ſuffer. It is the Liberty of
+<pb facs="tcp:97058:10"/>the Goſpel of Chriſt Jeſus that we deſire, knowing that neither He nor his Miniſters did ever force any man to their Religion by Im<g ref="char:EOLhyphen"/>priſonment or ſpoyling Goods; ſo as we are enjoyned to ſtand faſt in that Liberty wherewith Chriſt has made us free from the Thral<g ref="char:EOLhyphen"/>dom of Sathan, we deſire this our liberty may not be infringed upon. We greatly ſuffered for our tender Conſciences towards God in the other Powers days; and we think it very hard that we, who own the Lord Jeſus Chriſt, ſhould ſuffer in a Nation profeſſing Chriſtianity.</p>
+               <p>You cannot be unſenſible how many of us have alſo been Impri<g ref="char:EOLhyphen"/>ſoned and Premunired, becauſe they durſt not break the command of Chriſt and the Apoſtle, who commands not to Swear, but keep to <hi>Yea</hi> and <hi>Nay,</hi> Math. 5. Jam. 5. <hi>Wherefore we requeſt that our</hi> Yea, Yea, <hi>and</hi> Nay, Nay, <hi>may be taken inſtead of an Oath; and when we are called to teſtifie the Truth in any caſe, or bear any Office, if we break (or be found falſe in) our</hi> Yea, <hi>or our</hi> Nay, <hi>then let us ſuffer the ſame Puniſhment as they do that break their Oaths; and not for our Conſci<g ref="char:EOLhyphen"/>entiouſly refuſing to Swear, while we ſpeak the Truth, as we are ſtill liable to ſuffer, unleſs you are pleaſed to grant a redreſs.</hi>
+               </p>
+               <p>Be it Remembred</p>
+               <p>That there have ſuffered Impriſonment for Conſcience-ſake, ſince the King came into <hi>England,</hi> above 8000 of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> and ſince, near two hundred have dyed Priſoners by reaſon of their cloſe Confinement. Of which number Seventy-nine Dyed in <hi>Newgate,</hi> and on Board the Ships, appointed for their Tranſporta<g ref="char:EOLhyphen"/>tion in the time of the Contagion in <hi>London,</hi> being Priſoners; and many under the Sentence of Tranſportation, upon the Act againſt Conventicles: and 138 Perſons Sentenced for Baniſhment.</p>
+               <q>
+                  <p>He that juſtifieth the Wicked, and the that Condemneth the Juſt, even they both are an abomination unto the Lord,</p>
+                  <bibl>
+                     <hi>Prov. 17.15.</hi>
+                  </bibl>
+               </q>
+            </div>
+            <trailer>THE END</trailer>
+            <byline>Carefully Examined and Compared with the Original Ac<g ref="char:EOLhyphen"/>counts ſent out of the Countreys, on the behalf of the a<g ref="char:EOLhyphen"/>foreſaid Sufferers,
+By <hi>Ellis Hookes.</hi>
+            </byline>
+         </div>
+      </body>
+   </text>
+</TEI>
